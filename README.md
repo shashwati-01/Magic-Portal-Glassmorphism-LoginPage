@@ -1,5 +1,8 @@
 # ✨ Magic Portal
 
+# Live Demo
+https://shashwati-01.github.io/Magic-Portal-Glassmorphism-LoginPage/
+
 A magical glassmorphism login page featuring animated gradients, glowing effects, and a fairy-inspired responsive interface.
 
 ## Features
